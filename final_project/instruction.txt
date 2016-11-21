@@ -1,0 +1,1 @@
+instruction: click the cat -> click the girl -> click the table cell -> draw under the vocab
